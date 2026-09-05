@@ -1,4 +1,4 @@
-##E-Commerce Sales \& Customer Analytics
+## E-Commerce Sales \& Customer Analytics
 
 ## 📌 Project Overview
 
